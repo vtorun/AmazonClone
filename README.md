@@ -1,15 +1,15 @@
 # Amazon Clone
 
-Bu proje, HTML ve CSS kullanılarak oluşturulmuş bir Amazon arayüzü klonudur.
+This project is a clone of Amazon interface built using HTML and CSS.
 
-# Özellikler
+# Features
 
-- Tamamen responsive tasarım
-- Amazon'un ana sayfa arayüzüne benzer stil
-- HTML ve CSS ile sıfırdan oluşturulmuş bileşenler
-- Ekran boyutlarına duyarlı yerleşim
+- Fully responsive design
+- Similar style to Amazon's homepage interface
+- Components built from scratch with HTML and CSS
+- Responsive layout to screen sizes
 
-# Ekran Kaydı
+# Preview
 
 ![AmazonClone](https://github.com/user-attachments/assets/3afbf77f-7f3f-4e5c-85f5-10a35387507a)
 
